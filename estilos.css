@@ -1,0 +1,70 @@
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    background: #2393e7;
+    border: 1px solid black;
+    font: bold 30px sans-serif;
+}
+ 
+header,section, footer, aside,nav,article, hgroup {
+    width: auto;
+    display:block;
+    font-weight: bold;
+    border: 1px solid black;
+    
+}
+
+body {
+
+    text-align: center;
+}
+
+.agrupar {
+    background: #3B3B98;
+    width: auto;
+    margin: auto;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.header{
+    background: #003459;
+    border: 1px solid black;
+    padding: 20px; 
+    text-align: center;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.menu {
+    background: #ccc;
+    padding: 5px 15px;
+    text-align: center;
+}
+
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;
+    
+}
+
+.seccion {
+    padding: 20px;
+    border: 1px solid black; 
+}
+
+p {
+    font-size: 30; 
+}
+
+a {
+    style=""
+}
